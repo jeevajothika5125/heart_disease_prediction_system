@@ -161,6 +161,8 @@ python train_model.py
 ## 👩‍💻 Author
 
 **Jeevajothika D**
+**Pre-Final Year Student**
+**Department of AIDS**
 
 ---
 
